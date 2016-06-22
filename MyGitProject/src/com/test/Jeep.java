@@ -8,13 +8,14 @@ public class Jeep implements Car
     @Override
     public String getHonkSound()
     {
-        return null;
+
+        return "peeeng";
     }
 
     @Override
     public String getBrand()
     {
-        return null;
+        return "Cherokee";
     }
 
     @Override
