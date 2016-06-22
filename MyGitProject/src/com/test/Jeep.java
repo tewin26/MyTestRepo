@@ -15,7 +15,8 @@ public class Jeep implements Car
     @Override
     public String getBrand()
     {
-        return "Cherokee";
+        String Name = "Blac Cherokee";
+        return Name;
     }
 
     @Override
