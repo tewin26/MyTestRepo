@@ -26,12 +26,12 @@ public class Jeep implements Car
     @Override
     public String getColor()
     {
-        return null;
+        return "Maze";
     }
 
     @Override
     public String getCalculatedMilesPerGalon()
     {
-        return null;
+        return "20";
     }
 }
