@@ -9,7 +9,7 @@ public class MyCompany
     {
         MyCompany company = new MyCompany();
 
-        company.printDetailsOnCar(new BMW());
+        company.printDetailsOnCar(new Audi());
     }
 
 
