@@ -26,7 +26,7 @@ public class BMW implements Car
     @Override
     public String getColor()
     {
-        return "Black";
+        return "Black Silver";
     }
 
     @Override
